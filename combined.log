@@ -1,0 +1,75 @@
+{"level":"info","message":"Request -> IP: ::ffff:127.0.0.1, METHOD: GET, PATH: /weather/vittel","service":"user-service"}
+{"level":"info","message":"Response -> STATUS_CODE: 200 - TIMESTAMP: 2024-02-15T10:00:50.277Z","service":"user-service"}
+{"level":"info","message":"Request -> IP: ::ffff:127.0.0.1, METHOD: GET, PATH: /weather/vittel","service":"user-service"}
+{"level":"info","message":"Response -> STATUS_CODE: 200 - TIMESTAMP: 2024-02-15T12:32:01.281Z","service":"user-service"}
+{"level":"info","message":"Request -> IP: ::ffff:127.0.0.1, METHOD: GET, PATH: /weather/vittel","service":"user-service"}
+{"level":"info","message":"Response -> STATUS_CODE: 200 - TIMESTAMP: 2024-02-15T12:36:17.993Z","service":"user-service"}
+{"level":"info","message":"Request -> IP: ::ffff:127.0.0.1, METHOD: GET, PATH: /weather/vittel","service":"user-service"}
+{"level":"info","message":"Response -> STATUS_CODE: 200 - TIMESTAMP: 2024-02-15T12:37:54.042Z","service":"user-service"}
+{"level":"info","message":"Request -> IP: ::1, METHOD: GET, PATH: /weather/paris","service":"user-service"}
+{"level":"info","message":"Response -> STATUS_CODE: 200 - TIMESTAMP: 2024-02-15T13:31:08.310Z","service":"user-service"}
+{"level":"info","message":"Request -> IP: ::1, METHOD: GET, PATH: /weather/paris","service":"user-service"}
+{"level":"info","message":"Response -> STATUS_CODE: 200 - TIMESTAMP: 2024-02-15T13:31:46.032Z","service":"user-service"}
+{"level":"info","message":"Request -> IP: ::1, METHOD: GET, PATH: /weather/paris","service":"user-service"}
+{"level":"info","message":"Response -> STATUS_CODE: 200 - TIMESTAMP: 2024-02-15T13:32:04.764Z","service":"user-service"}
+{"level":"info","message":"Request -> IP: ::1, METHOD: GET, PATH: /weather/paris","service":"user-service"}
+{"level":"info","message":"Response -> STATUS_CODE: 200 - TIMESTAMP: 2024-02-15T13:32:11.800Z","service":"user-service"}
+{"level":"info","message":"Request -> IP: ::1, METHOD: GET, PATH: /weather/paris","service":"user-service"}
+{"level":"info","message":"Response -> STATUS_CODE: 200 - TIMESTAMP: 2024-02-15T13:32:45.791Z","service":"user-service"}
+{"level":"info","message":"Request -> IP: ::1, METHOD: GET, PATH: /weather/paris","service":"user-service"}
+{"level":"info","message":"Response -> STATUS_CODE: 200 - TIMESTAMP: 2024-02-15T13:37:10.453Z","service":"user-service"}
+{"level":"info","message":"Request -> IP: ::1, METHOD: GET, PATH: /weather/paris","service":"user-service"}
+{"level":"info","message":"Response -> STATUS_CODE: 304 - TIMESTAMP: 2024-02-15T13:37:11.509Z","service":"user-service"}
+{"level":"info","message":"Request -> IP: ::1, METHOD: GET, PATH: /weather/paris","service":"user-service"}
+{"level":"info","message":"Response -> STATUS_CODE: 304 - TIMESTAMP: 2024-02-15T13:37:11.687Z","service":"user-service"}
+{"level":"info","message":"Request -> IP: ::1, METHOD: GET, PATH: /weather/paris","service":"user-service"}
+{"level":"info","message":"Response -> STATUS_CODE: 304 - TIMESTAMP: 2024-02-15T13:37:11.834Z","service":"user-service"}
+{"level":"info","message":"Request -> IP: ::1, METHOD: GET, PATH: /weather/paris","service":"user-service"}
+{"level":"info","message":"Response -> STATUS_CODE: 304 - TIMESTAMP: 2024-02-15T13:37:11.982Z","service":"user-service"}
+{"level":"info","message":"Request -> IP: ::1, METHOD: GET, PATH: /weather/paris","service":"user-service"}
+{"level":"info","message":"Response -> STATUS_CODE: 304 - TIMESTAMP: 2024-02-15T13:38:32.713Z","service":"user-service"}
+{"level":"info","message":"Request -> IP: ::1, METHOD: GET, PATH: /weather/paris","service":"user-service"}
+{"level":"info","message":"Response -> STATUS_CODE: 304 - TIMESTAMP: 2024-02-15T13:39:34.259Z","service":"user-service"}
+{"level":"error","message":"METHOD: GET,  PATH:/weather/ - STATUS_CODE: 404 - TIMESTAMP: 2024-02-15T13:40:00.069Z","service":"user-service"}
+{"level":"info","message":"Request -> IP: ::1, METHOD: GET, PATH: /weather/paris","service":"user-service"}
+{"level":"info","message":"Response -> STATUS_CODE: 304 - TIMESTAMP: 2024-02-15T13:40:04.552Z","service":"user-service"}
+{"level":"info","message":"Request -> IP: ::ffff:127.0.0.1, METHOD: GET, PATH: /weather/vittel","service":"user-service"}
+{"level":"info","message":"Response -> STATUS_CODE: 200 - TIMESTAMP: 2024-02-15T13:40:16.924Z","service":"user-service"}
+{"level":"info","message":"Request -> IP: ::1, METHOD: GET, PATH: /weather/paris","service":"user-service"}
+{"level":"info","message":"Response -> STATUS_CODE: 304 - TIMESTAMP: 2024-02-15T13:41:41.538Z","service":"user-service"}
+{"level":"info","message":"Request -> IP: ::1, METHOD: GET, PATH: /weather/paris","service":"user-service"}
+{"level":"info","message":"Response -> STATUS_CODE: 304 - TIMESTAMP: 2024-02-15T13:42:20.591Z","service":"user-service"}
+{"level":"error","message":"METHOD: GET,  PATH:/weather/ - STATUS_CODE: 404 - TIMESTAMP: 2024-02-15T13:42:26.156Z","service":"user-service"}
+{"level":"info","message":"Request -> IP: ::1, METHOD: GET, PATH: /weather/paris","service":"user-service"}
+{"level":"info","message":"Response -> STATUS_CODE: 304 - TIMESTAMP: 2024-02-15T13:42:29.113Z","service":"user-service"}
+{"level":"info","message":"Request -> IP: ::1, METHOD: GET, PATH: /weather/paris","service":"user-service"}
+{"level":"info","message":"Response -> STATUS_CODE: 304 - TIMESTAMP: 2024-02-15T13:42:59.858Z","service":"user-service"}
+{"level":"info","message":"Request -> IP: ::1, METHOD: GET, PATH: /weather/paris","service":"user-service"}
+{"level":"info","message":"Response -> STATUS_CODE: 304 - TIMESTAMP: 2024-02-15T13:43:19.684Z","service":"user-service"}
+{"level":"info","message":"Request -> IP: ::1, METHOD: GET, PATH: /weather/paris","service":"user-service"}
+{"level":"info","message":"Response -> STATUS_CODE: 304 - TIMESTAMP: 2024-02-15T13:44:28.672Z","service":"user-service"}
+{"level":"info","message":"Request -> IP: ::1, METHOD: GET, PATH: /weather/Paris","service":"user-service"}
+{"level":"info","message":"Response -> STATUS_CODE: 200 - TIMESTAMP: 2024-02-15T13:45:17.941Z","service":"user-service"}
+{"level":"info","message":"Request -> IP: ::1, METHOD: GET, PATH: /weather/paris","service":"user-service"}
+{"level":"info","message":"Response -> STATUS_CODE: 200 - TIMESTAMP: 2024-02-15T13:51:53.996Z","service":"user-service"}
+{"level":"error","message":"METHOD: GET,  PATH:/weather/ - STATUS_CODE: 404 - TIMESTAMP: 2024-02-15T13:53:02.054Z","service":"user-service"}
+{"level":"error","message":"METHOD: GET,  PATH:/weather/ - STATUS_CODE: 404 - TIMESTAMP: 2024-02-15T13:53:05.642Z","service":"user-service"}
+{"level":"error","message":"METHOD: GET,  PATH:/weather/ - STATUS_CODE: 404 - TIMESTAMP: 2024-02-15T13:53:21.968Z","service":"user-service"}
+{"level":"info","message":"Request -> IP: ::1, METHOD: GET, PATH: /weather/paris","service":"user-service"}
+{"level":"info","message":"Response -> STATUS_CODE: 304 - TIMESTAMP: 2024-02-15T13:56:57.791Z","service":"user-service"}
+{"level":"info","message":"Request -> IP: ::1, METHOD: GET, PATH: /weather/paris","service":"user-service"}
+{"level":"info","message":"Response -> STATUS_CODE: 304 - TIMESTAMP: 2024-02-15T14:00:46.821Z","service":"user-service"}
+{"level":"info","message":"Request -> IP: ::1, METHOD: GET, PATH: /weather/Paris","service":"user-service"}
+{"level":"info","message":"Response -> STATUS_CODE: 304 - TIMESTAMP: 2024-02-15T14:01:12.336Z","service":"user-service"}
+{"level":"error","message":"METHOD: GET,  PATH:/weather/ - STATUS_CODE: 404 - TIMESTAMP: 2024-02-15T14:01:16.339Z","service":"user-service"}
+{"level":"error","message":"METHOD: GET,  PATH:/weather/parsssss - STATUS_CODE: 500 - TIMESTAMP: 2024-02-15T14:01:24.295Z","service":"user-service"}
+{"level":"error","message":"METHOD: GET,  PATH:/weather/parsssss - STATUS_CODE: 500 - TIMESTAMP: 2024-02-15T14:01:25.421Z","service":"user-service"}
+{"level":"error","message":"METHOD: GET,  PATH:/weather/parsssss - STATUS_CODE: 500 - TIMESTAMP: 2024-02-15T14:01:25.900Z","service":"user-service"}
+{"level":"info","message":"Request -> IP: ::1, METHOD: GET, PATH: /weather/paris","service":"user-service"}
+{"level":"info","message":"Response -> STATUS_CODE: 200 - TIMESTAMP: 2024-02-15T14:01:32.934Z","service":"user-service"}
+{"level":"error","message":"METHOD: GET,  PATH:/weather/ - STATUS_CODE: 404 - TIMESTAMP: 2024-02-15T14:58:20.338Z","service":"user-service"}
+{"level":"info","message":"Request -> IP: ::1, METHOD: GET, PATH: /weather/Vittel","service":"user-service"}
+{"level":"info","message":"Response -> STATUS_CODE: 200 - TIMESTAMP: 2024-02-15T15:03:02.852Z","service":"user-service"}
+{"level":"error","message":"METHOD: GET,  PATH:/weather/mery%20sur%20oise - STATUS_CODE: 500 - TIMESTAMP: 2024-02-15T15:03:09.063Z","service":"user-service"}
+{"level":"info","message":"Request -> IP: ::1, METHOD: GET, PATH: /weather/mery-sur-oise","service":"user-service"}
+{"level":"info","message":"Response -> STATUS_CODE: 200 - TIMESTAMP: 2024-02-15T15:03:13.555Z","service":"user-service"}

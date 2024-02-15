@@ -1,0 +1,11 @@
+{"level":"error","message":"METHOD: GET,  PATH:/weather/ - STATUS_CODE: 404 - TIMESTAMP: 2024-02-15T13:40:00.069Z","service":"user-service"}
+{"level":"error","message":"METHOD: GET,  PATH:/weather/ - STATUS_CODE: 404 - TIMESTAMP: 2024-02-15T13:42:26.156Z","service":"user-service"}
+{"level":"error","message":"METHOD: GET,  PATH:/weather/ - STATUS_CODE: 404 - TIMESTAMP: 2024-02-15T13:53:02.054Z","service":"user-service"}
+{"level":"error","message":"METHOD: GET,  PATH:/weather/ - STATUS_CODE: 404 - TIMESTAMP: 2024-02-15T13:53:05.642Z","service":"user-service"}
+{"level":"error","message":"METHOD: GET,  PATH:/weather/ - STATUS_CODE: 404 - TIMESTAMP: 2024-02-15T13:53:21.968Z","service":"user-service"}
+{"level":"error","message":"METHOD: GET,  PATH:/weather/ - STATUS_CODE: 404 - TIMESTAMP: 2024-02-15T14:01:16.339Z","service":"user-service"}
+{"level":"error","message":"METHOD: GET,  PATH:/weather/parsssss - STATUS_CODE: 500 - TIMESTAMP: 2024-02-15T14:01:24.295Z","service":"user-service"}
+{"level":"error","message":"METHOD: GET,  PATH:/weather/parsssss - STATUS_CODE: 500 - TIMESTAMP: 2024-02-15T14:01:25.421Z","service":"user-service"}
+{"level":"error","message":"METHOD: GET,  PATH:/weather/parsssss - STATUS_CODE: 500 - TIMESTAMP: 2024-02-15T14:01:25.900Z","service":"user-service"}
+{"level":"error","message":"METHOD: GET,  PATH:/weather/ - STATUS_CODE: 404 - TIMESTAMP: 2024-02-15T14:58:20.338Z","service":"user-service"}
+{"level":"error","message":"METHOD: GET,  PATH:/weather/mery%20sur%20oise - STATUS_CODE: 500 - TIMESTAMP: 2024-02-15T15:03:09.063Z","service":"user-service"}
